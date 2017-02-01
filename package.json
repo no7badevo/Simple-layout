@@ -1,0 +1,19 @@
+{
+  "name": "simple-layout",
+  "version": "1.0.0",
+  "description": "basic-layout",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/no7badevo/Simple-layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/no7badevo/Simple-layout/issues"
+  },
+  "homepage": "https://github.com/no7badevo/Simple-layout#readme"
+}
